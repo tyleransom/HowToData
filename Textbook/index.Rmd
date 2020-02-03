@@ -1,0 +1,17 @@
+--- 
+title: "How to Use Data"
+author: "Tyler Ransom and Le Wang"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: tyleransom/HowToData
+description: "Examples of how to use data for research."
+---
+
+# Introduction
+
+This book introduces the reader to commonly used data sets used for research.

@@ -1,0 +1,6 @@
+# How to use NLSY
+
+- accessing and downloading the data
+- cleaning the data
+- using the data
+
