@@ -1,5 +1,10 @@
 # PSID
 
+Here we will showcase two panel data features
+
+1. Panel for linking across years
+2. Panel for linking parents to children
+
 - Accessing and downloading the data
 - `psidR` package
 - etc.
