@@ -1,5 +1,7 @@
 # How to use IPUMS data sets {#intro}
 
+perhaps `tidycensus`?
+
 - CPS
 - ACS
 
